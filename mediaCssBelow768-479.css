@@ -1,0 +1,17 @@
+/*@media (min-width:479px) and (max-width:768px){*/
+	@media screen and (max-width: 767px){	
+	
+	.lower-nav-right{
+		display:none;
+	}
+	.disp-non{
+		display:inline;
+	}
+	.outer-side-menu-icon {
+		font-size: xx-large;
+		padding: 0px 20px;
+	}
+	.lower-navbar {
+    padding: 10px 30px;
+	}
+}

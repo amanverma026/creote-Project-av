@@ -1,0 +1,135 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+	.upper-navbar{
+		padding:5px 20px;
+	}
+	
+	.lower-nav-right{
+		display:none;
+	}
+	.lower-navbar{
+		padding:10px 20px;
+	}
+	.outer-side-menu-icon {
+		font-size: xx-large;
+		padding: 0px 20px;
+}
+	.swiper-slide img{
+		width:100%;
+		height:100%;
+	}
+	.intelligent-sub-left {
+		padding: 33px 50px;
+	}
+	.swiper-pagination-fraction {
+    color: var(--swiper-pagination-fraction-color, inherit);
+    display: none;
+	}
+	.intelligent-container {
+    display: block;
+	padding: 50px 0px;
+	height:1200px;
+	}
+	
+	.disp-non{
+		display:inline;
+	}
+	.disp-non-br{
+		display:none;
+	}
+	.intelligent-sub-left h2{
+		font-size: larger;
+	}
+	.intelligent-sub-left h1{
+		font-size: xx-large;
+	}
+	.light-font ,.stock-content-box p{
+		font-size:15px;
+		color: #767676;
+	}
+	.intelligent-points-cont {
+		width:100%;
+	}
+	.pl-4 {
+    padding-left: 130px;
+	}
+	.intlligent-right-img >img{
+		width:70%;
+	}
+	.card2-intellig{
+		margin-left: 500px;
+	}
+	.intelligent-right-img-card-outer {
+		padding: 15px 20px;
+	}
+	.intlligent-right-img{
+		padding: 20px 50px;
+	}
+	.intellig-img-card{
+		width:380px;
+	}
+	.img-upper-code-video{
+		margin:50px;
+		justify-content:space-between;
+	}
+	.left-meaningful-content > p{
+		margin-bottom:30px;
+	}
+	.requirement-992{
+		display:flex;
+		justify-content:space-between;
+		align-items:center;
+		flex-wrap:wrap;
+	}
+	.process_box_outer_two{
+		width:46%;
+	}
+	.title_left > h2 , .title_right > p{
+		margin:10px 0px;
+	}
+	.title_sections{
+		padding:0px 50px;
+		/*overflow-x:hiddem;*/
+	}
+	.content > .span{
+		margin-left:50px;
+	}
+	.incredibly_part .content .middle_part .slider_1 {
+		width:43%;
+	}
+	.customer_experiences .content .image{
+		margin:auto 0px ;
+	}
+	.find_out .container .main_grid .content_box_1{
+		width:17%;
+	}
+	.find_out .container .main_grid .content_box{
+		width:44%;
+	}
+	.find_out .container .main_grid{
+		padding:20px;
+	}
+	.Footer-ip-wrapper{
+		padding:40px 20px;
+	}
+	.first-col-footer, .second-col-footer{
+		width:45%;
+	}
+	.Footer-main-middle{
+		display:flex;
+		justify-content:space-around;
+		align-items:center;
+		flex-wrap:wrap;
+	}
+	.third-col-footer.d-flex {
+		width: 100%;
+		padding-top: 20px;
+	}
+	
+	.content_box{
+		    display: flex;
+			justify-content: flex-start;
+	}
+	
+	
+}

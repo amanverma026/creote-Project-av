@@ -1,0 +1,20 @@
+@media (min-width:1200px) and (max-width:1350px){
+	.lower-navbar{
+	padding: 10px 40px;
+}
+	.upper-navbar{
+	padding: 5px 40px;
+	}
+	.swiper-slide img{
+		width:100%;
+		height:100%;
+	}
+	.intelligent-sub-left,.intelligent-sub-right{
+		width:44%;
+	}
+	.intelligent-container{
+		padding: 100px 0px 100px 40px;
+	}
+	
+	
+}
